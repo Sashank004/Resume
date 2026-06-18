@@ -1,4 +1,1 @@
 # Resume 
-
-
-yes
